@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeeva-1405/Jeeva-1405/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeeva-1405/Jeeva-1405/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jeeva-1405/Jeeva-1405/output/github-snake.svg" />
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=99999&color=CC0000&center=true&vCenter=true&width=400&height=70&lines=JEEVA" />
 
