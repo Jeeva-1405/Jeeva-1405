@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=150&section=header&text=JEEVA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65&fontFamily=Mokoto" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ECE+Student+%40+M.Kumarasamy+College+of+Engineering;Founder+of+Framecape;Full+Stack+Developer;AI+%26+Automation+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ECE+Student+%40+M.Kumarasamy+College+of+Engineering;Founder+of+Framecape;Full+Stack+Developer;AI+%26+Mulesoft+learner)](https://git.io/typing-svg)
 
 </div>
 
