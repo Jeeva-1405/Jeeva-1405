@@ -1,65 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Jeeva&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=120&section=header&text=Jeeva&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-### ECE Student · Web Developer · AI Builder
+**ECE student @ MKCE &nbsp;·&nbsp; Founder of [Framecape](https://framecape.com)**
 
-*Founder of **[Framecape](https://framecape.com)** — a web development studio based in Coimbatore*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeva-e-b4b442290/)
-[![Framecape](https://img.shields.io/badge/Framecape-6366f1?style=flat&logo=globe&logoColor=white)](https://framecape.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Jeeva--1405-black?style=flat&logo=github)](https://github.com/Jeeva-1405)
+*I build things at the intersection of AI, automation, and the web.*
 
 </div>
 
 ---
 
-### About me
+### 🛠 What I work with
 
-- 🎓 3rd year ECE student at **M. Kumarasamy College of Engineering** (2027)
-- 🏢 Founder of **Framecape** — static sites, full-stack apps, SEO, redesigns
-- 🤖 Building AI agents, automation tools, and real-world ML applications
-- 📍 Based in Coimbatore, Tamil Nadu
-
----
-
-### Tech stack
-
-**Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend & DB**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-fff?style=flat-square&logo=html5&logoColor=cc0000)
+![CSS](https://img.shields.io/badge/CSS-fff?style=flat-square&logo=css3&logoColor=cc0000)
+![Python](https://img.shields.io/badge/Python-fff?style=flat-square&logo=python&logoColor=cc0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=flat-square&logo=javascript&logoColor=cc0000)
+![React](https://img.shields.io/badge/React-fff?style=flat-square&logo=react&logoColor=cc0000)
+![Node.js](https://img.shields.io/badge/Node.js-fff?style=flat-square&logo=node.js&logoColor=cc0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-fff?style=flat-square&logo=mongodb&logoColor=cc0000)
 
 ---
 
-### Projects
+### 🚀 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Framecape**](https://framecape.com) | Web dev studio — client sites, full-stack, SEO | React, Node.js, MongoDB |
-| **FacultySync** | Faculty alteration system for MKCE | Node.js, MongoDB, Render |
-| **RPM Agent** | Remote patient monitoring chat agent | Flask, Groq, WebSockets |
-| **JARVIS** | Windows PC automation agent with browser UI | Flask, Groq |
-| **Plant Disease Detector** | Image classification with MobileNetV3 | PyTorch, Colab |
+- **Framecape** — client-driven web studio (static sites, full-stack, SEO)
+- **Student Projects** — EV battery management dashboard, student placement management
+- **Club website** — built a club website for MKCE
+- **FacultySync** — faculty alteration system for MKCE
+
+---
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=cc0000)](https://www.linkedin.com/in/jeeva-e-b4b442290/)&nbsp;
+[![Framecape](https://img.shields.io/badge/framecape.com-111?style=flat-square&logo=google-chrome&logoColor=cc0000)](https://framecape.com)
 
 ---
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jeeva-1405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeva-1405&layout=compact&theme=tokyonight&hide_border=true" />
+![Jeeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeva-1405&show_icons=true&theme=dark&title_color=cc0000&icon_color=cc0000&text_color=ffffff&bg_color=111111&hide_border=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=80&section=footer" />
 
 </div>
