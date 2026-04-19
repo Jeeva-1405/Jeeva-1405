@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ECE+Student+%40+M.Kumarasamy+College+of+Engineering;Founder+of+Framecape;Full+Stack+Developer;AI+%26+Mulesoft+Learner)](https://git.io/typing-svg)
 
 </div>
-
+ 
 ---
 
 ### 📌 What I work with
