@@ -6,9 +6,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Jeeva-1405/Jeeva-1405/output/github-snake.svg" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=99999&color=CC0000&center=true&vCenter=true&width=400&height=70&lines=JEEVA" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=99999&color=00FF41&center=true&vCenter=true&width=400&height=70&lines=JEEVA" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ECE+Student+%40+M.Kumarasamy+College+of+Engineering;Founder+of+Framecape;Full+Stack+Developer;AI+%26+Automation+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ECE+Student+%40+M.Kumarasamy+College+of+Engineering;Founder+of+Framecape;Full+Stack+Developer;AI+%26+Automation+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,21 +16,21 @@
 
 ### 🛠 What I work with
 
-![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5&logoColor=cc0000)
-![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3&logoColor=cc0000)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=cc0000)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=cc0000)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=cc0000)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js&logoColor=cc0000)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=cc0000)
-![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask&logoColor=cc0000)
-![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch&logoColor=cc0000)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FF41)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00FF41)
 
 ---
 
 ### 🚀 Projects
 
-| 🔴 Project | 💡 Description |
+| ▶ Project | // Description |
 |---|---|
 | [**Framecape**](https://framecape.com) | Client-driven web studio — static sites, full-stack, SEO |
 | **FacultySync** | Faculty alteration system for MKCE |
@@ -43,9 +43,9 @@
 
 <div align="center">
 
-![Jeeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeva-1405&show_icons=true&title_color=cc0000&icon_color=cc0000&text_color=ffffff&bg_color=111111&hide_border=true&count_private=true)
+![Jeeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeva-1405&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d1117&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jeeva-1405&theme=dark&hide_border=true&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&background=111111&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jeeva-1405&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0d1117&dates=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=cc0000)](https://www.linkedin.com/in/jeeva-e-b4b442290/)
-[![Framecape](https://img.shields.io/badge/framecape.com-111?style=for-the-badge&logo=google-chrome&logoColor=cc0000)](https://framecape.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/jeeva-e-b4b442290/)
+[![Framecape](https://img.shields.io/badge/framecape.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://framecape.com)
 
 </div>
