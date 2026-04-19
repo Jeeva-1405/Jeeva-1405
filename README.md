@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=150&section=header&text=JEEVA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65&fontFamily=Mokoto" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeeva-1405/Jeeva-1405/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeeva-1405/Jeeva-1405/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jeeva-1405/Jeeva-1405/output/github-snake.svg" />
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ECE+Student+%40+M.Kumarasamy+College+of+Engineering;Founder+of+Framecape;Full+Stack+Developer;AI+%26+Mulesoft+learner)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=99999&color=CC0000&center=true&vCenter=true&width=400&height=70&lines=JEEVA" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ECE+Student+%40+M.Kumarasamy+College+of+Engineering;Founder+of+Framecape;Full+Stack+Developer;AI+%26+Automation+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,5 +59,3 @@
 [![Framecape](https://img.shields.io/badge/framecape.com-111?style=for-the-badge&logo=google-chrome&logoColor=cc0000)](https://framecape.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=80&section=footer" />
