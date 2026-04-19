@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 What I work with
+### 📌 What I work with
 
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41)
@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Projects
+### 📌 Projects
 
 | ▶ Project | // Description |
 |---|---|
